@@ -2,7 +2,7 @@
 Python Console Application to check whether item is in stock
 Currently only works on Amazon products
 
-#Getting Started
+# Getting Started
 **Prerequisits**
 Download BeautifulSoup4 in Python if you already don't have it
 Install using pip
@@ -16,7 +16,7 @@ Clone the repository
 git clone https://github.com/angelguanlao/StockCheck
 ```
 
-#Usage
+# Usage
 The application has the main StockCheckerApp which you instantiate an item you want to monitor using the StockClass from itemClass.
 
 Example
